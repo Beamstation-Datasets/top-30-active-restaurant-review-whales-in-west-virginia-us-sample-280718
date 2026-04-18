@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cc2c6879-5b31-4f98-81ab-3ad5d73b5d01",
+  "export_job_id": "4ab0835c-22bb-4f07-a6e3-6192f6eba830",
   "id_short": 280718,
-  "published_at": "2026-04-11T19:15:18Z",
+  "published_at": "2026-04-18T07:46:22Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-west-virginia-us-sample-280718",
   "sample_asset_name": "beamstation_280718_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/280718/beamstation_280718_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "6a91d1c2931e766d9404957cfcc6bd4c0b04dd0af74bace05222c200d8fc3951",
-  "sample_size_bytes": 55078,
-  "total_records": 757
+  "sample_records": 85,
+  "sample_sha256": "031fb4a30c9cc861a4a9838fb79b52cda07342ec96a2dae8343e7316d608706c",
+  "sample_size_bytes": 362524,
+  "total_records": 855
 }
