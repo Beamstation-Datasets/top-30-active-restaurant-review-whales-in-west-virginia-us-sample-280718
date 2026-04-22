@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in West Virginia, US
 
-> Free BeamStation sample export with 85 rows and masked direct-contact fields.
+> Free BeamStation sample export with 99 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `280718` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 855 records |
-| Free sample size | 85 records (9.94%) |
-| Last export | 2026-04-15T03:08:30.741409+00:00 |
+| Full dataset size | 994 records |
+| Free sample size | 99 records (9.96%) |
+| Last export | 2026-04-22T08:22:14.475117+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-west-virginia-us-sample-280718/releases/download/sample-latest/beamstation_280718_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
